@@ -82,7 +82,7 @@
 @media only screen and (max-width: 992px) {
   .margem-form {
     max-width: 500px;
-    margin: 150px auto; 200px;
+    margin: 150px auto 200px;
     text-align: center !important;
   }
 }
